@@ -1,0 +1,6 @@
+=== Class-wise Accuracy Report ===
+Healthy: Accuracy = 0.9700 (194/200 samples)
+Mild DR: Accuracy = 0.1892 (14/74 samples)
+Moderate DR: Accuracy = 0.0556 (10/180 samples)
+Proliferate DR: Accuracy = 0.2414 (14/58 samples)
+Severe DR: Accuracy = 0.1842 (7/38 samples)

@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Keras / ML model files (large binaries — use Git LFS or store externally)
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.tflite
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset folders
+data/
+datasets/
+raw_data/
+DRdataset/
+DRdataset_Processed/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
